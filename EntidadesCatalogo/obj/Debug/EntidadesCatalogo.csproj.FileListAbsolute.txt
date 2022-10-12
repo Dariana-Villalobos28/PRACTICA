@@ -1,0 +1,6 @@
+C:\Users\daria\source\repos\PresentacionCatalogo\EntidadesCatalogo\bin\Debug\EntidadesCatalogo.dll
+C:\Users\daria\source\repos\PresentacionCatalogo\EntidadesCatalogo\bin\Debug\EntidadesCatalogo.pdb
+C:\Users\daria\source\repos\PresentacionCatalogo\EntidadesCatalogo\obj\Debug\EntidadesCatalogo.csproj.AssemblyReference.cache
+C:\Users\daria\source\repos\PresentacionCatalogo\EntidadesCatalogo\obj\Debug\EntidadesCatalogo.csproj.CoreCompileInputs.cache
+C:\Users\daria\source\repos\PresentacionCatalogo\EntidadesCatalogo\obj\Debug\EntidadesCatalogo.dll
+C:\Users\daria\source\repos\PresentacionCatalogo\EntidadesCatalogo\obj\Debug\EntidadesCatalogo.pdb

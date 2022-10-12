@@ -1,0 +1,12 @@
+C:\Users\daria\source\repos\PresentacionCatalogo\ManejadoresCatalogo\bin\Debug\ManejadoresCatalogo.dll
+C:\Users\daria\source\repos\PresentacionCatalogo\ManejadoresCatalogo\bin\Debug\ManejadoresCatalogo.pdb
+C:\Users\daria\source\repos\PresentacionCatalogo\ManejadoresCatalogo\bin\Debug\AccesoDatos.dll
+C:\Users\daria\source\repos\PresentacionCatalogo\ManejadoresCatalogo\bin\Debug\EntidadesCatalogo.dll
+C:\Users\daria\source\repos\PresentacionCatalogo\ManejadoresCatalogo\bin\Debug\MySql.Data.dll
+C:\Users\daria\source\repos\PresentacionCatalogo\ManejadoresCatalogo\bin\Debug\AccesoDatos.pdb
+C:\Users\daria\source\repos\PresentacionCatalogo\ManejadoresCatalogo\bin\Debug\EntidadesCatalogo.pdb
+C:\Users\daria\source\repos\PresentacionCatalogo\ManejadoresCatalogo\obj\Debug\ManejadoresCatalogo.csproj.AssemblyReference.cache
+C:\Users\daria\source\repos\PresentacionCatalogo\ManejadoresCatalogo\obj\Debug\ManejadoresCatalogo.csproj.CoreCompileInputs.cache
+C:\Users\daria\source\repos\PresentacionCatalogo\ManejadoresCatalogo\obj\Debug\ManejadoresCatalogo.csproj.CopyComplete
+C:\Users\daria\source\repos\PresentacionCatalogo\ManejadoresCatalogo\obj\Debug\ManejadoresCatalogo.dll
+C:\Users\daria\source\repos\PresentacionCatalogo\ManejadoresCatalogo\obj\Debug\ManejadoresCatalogo.pdb
